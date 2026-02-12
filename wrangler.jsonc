@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "workflows-starter-template",
+	"name": "f9b5b15075cf02ca4a82fed0a5db2f1d6538e044",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-10-08",
 	"assets": {
